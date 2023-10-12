@@ -112,7 +112,11 @@ Now, let the pattern creation begin! Happy coding! 🎨✨
 - [bonifasiustrg](https://github.com/bonifasiustrg)
   
 - [sameera-7](https://github.com/sameera-7)
-  
+- [prakash-sah-lab](https://github.com/prakash-sah-lab)
+- [karr007](https://github.com/karr007)
+- [Deumus74](https://github.com/Deumus74)
+- [swayamterode](https://github.com/swayamterode)
+- [miswaryousuf](https://github.com/miswaryousuf)
 - [Pmanish47](https://github.com/Pmanish47)
 - [three59am](https://github.com/three59am)
 - [5ru1ana](https://github.com/5ru1ana)
