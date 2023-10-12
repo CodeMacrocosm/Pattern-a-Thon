@@ -102,42 +102,22 @@ MIT License
 
 Copyright (c) 2022 CodeMacrocosm
 
+## ✨ Hall Of Fame
+
+Thanks goes to these amazing people for their contributions 🎉🎉🎉
+
+
+
+<a href="https://github.com/codemacrocosm/Pattern-a-Thon-22/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=codemacrocosm/Pattern-a-Thon-22" />
+</a>
+
+
+
 
 ## Contributors 🙌
 
 A big thanks to all the creative minds who have contributed to Patternathon. Check out the contributors and explore the variety of patterns they've added.
 
 Now, let the pattern creation begin! Happy coding! 🎨✨
-
-- [bonifasiustrg](https://github.com/bonifasiustrg)
-  
-- [sameera-7](https://github.com/sameera-7)
-- [prakash-sah-lab](https://github.com/prakash-sah-lab)
-- [karr007](https://github.com/karr007)
-- [Deumus74](https://github.com/Deumus74)
-- [swayamterode](https://github.com/swayamterode)
-- [miswaryousuf](https://github.com/miswaryousuf)
-- [Pmanish47](https://github.com/Pmanish47)
-- [three59am](https://github.com/three59am)
-- [5ru1ana](https://github.com/5ru1ana)
-- [shanbinary](https://github.com/shanbinary)
-- [mattagajamgangothri](https://github.com/mattagajamgangothri)
-- [Prad55ep](https://github.com/Prad55ep)
-- [Chinmay1292](https://github.com/Chinmay1292)
-- [AshutoshRattan](https://github.com/AshutoshRattan)
-- [imrohitroy23](https://github.com/imrohitroy23)
-- [Eswaritammana](https://github.com/Eswaritammana)
-- [Vai300](https://github.com/Vai300)
-- [RoHitHai](https://github.com/RoHitHai)
-- [coderbabuaa](https://github.com/coderbabuaa)
-- [Menenispandana](https://github.com/Menenispandana)
-- [IbrahimShareeff](https://github.com/IbrahimShareeff)
-- [Vidyasindu](https://github.com/Vidyasindu)
-- [Trainax](https://github.com/Trainax)
-- [zankhana46](https://github.com/zankhana46)
-- [saha-rj](https://github.com/saha-rj)
-- [Developersubham18](https://github.com/Developersubham18)
-- [k0ustav](https://github.com/k0ustav)
-- [gr8rj-bot](https://github.com/gr8rj-bot)
-- [niharikaponugoti](https://github.com/niharikaponugoti)
 
