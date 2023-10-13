@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Pattern-a-Thon' 22 🎨✨ Where Patterns Become Art! 🌈
+# ✨ Pattern-a-Thon' 22 🎨 Patterns Become Art! 🌈
 
 </div>
 <p align="center">
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-## ✨ Hall Of Fame
+### ✨ Hall Of Fame
 
 Thanks goes to these amazing people for their contributions 🎉🎉🎉
 
@@ -49,7 +49,7 @@ Thanks goes to these amazing people for their contributions 🎉🎉🎉
 
 ## Overview 
 
-Coding Creativity into Shapes - ✨ Dive into the World of Code and Unleash Your Imagination! 🚀🖥️🎨 Welcome to Pattern-a-thon, where code meets creativity! 🚀 Hosted by **Shreya Malogi**, it's the space for programmers to showcase unique patterns using their favorite languages. Whether you're a pro or just starting, Pattern-a-thon is your canvas to experiment and unleash imagination. Let's code and create! 🌈💻 #HappyCoding 🌟
+Code Creatively at Pattern-a-thon - 🚀🎨 Hosted by **Shreya Malogi**, Join us in this coding playground where programmers, whether beginners or pros, showcase unique patterns in their favorite languages. Unleash your imagination and let's code together! 🌈💻 #HappyCoding 🌟
 
 
 ## How to Contribute 🖋️
