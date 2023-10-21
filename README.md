@@ -1,21 +1,58 @@
-# Pattern-a-Thon' 22 🎨✨ Where Algorithms Become Art! 🌈
-
-## Repository Stats 📊
-
-[![GitHub stars](https://img.shields.io/github/stars/codeMacrocosm/Pattern-a-Thon-22.svg)](https://github.com/codemacrocosm/Pattern-a-Thon-22/stargazers)
-
-[![GitHub forks](https://img.shields.io/github/forks/codeMacrocosm/Pattern-a-Thon-22.svg)](https://github.com/codemacrocosm/Pattern-a-Thon-22/network)
-
-[![GitHub contributors](https://img.shields.io/github/contributors/codemacrocosm/Pattern-a-Thon-22.svg)](https://github.com/codemacrocosm/Pattern-a-thon-22/graphs/contributors)
 
 
-## Coding Creativity into Shapes - ✨ Dive into the World of Code and Unleash Your Imagination! 🚀🖥️"
 
-🎨 Welcome to Patternathon, where code meets creativity! 🚀 Hosted by Shreya Malogi, it's the space for programmers to showcase unique patterns using their favorite languages. Whether you're a pro or just starting, Patternathon is your canvas to experiment and unleash imagination. Let's code and create! 🌈💻 #HappyCoding 🌟
+
+<div align="center">
+
+# ✨ Pattern-a-Thon' 22 🎨 Patterns Become Art! 🌈
+
+</div>
+<p align="center">
+  <a href="https://github.com/CodeMacrocosm/Pattern-a-Thon-22/stargazers">
+    <img src="https://img.shields.io/github/stars/CodeMacrocosm/Pattern-a-Thon-22?style=flat-square" alt="GitHub stars">
+  </a>
+  <a href="https://github.com/CodeMacrocosm/Pattern-a-Thon-22/network">
+    <img src="https://img.shields.io/github/forks/CodeMacrocosm/Pattern-a-Thon-22?style=flat-square" alt="GitHub forks">
+  </a>
+  <a href="https://github.com/codemacrocosm/Pattern-a-Thon-22/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/codemacrocosm/Pattern-a-Thon-22.svg" alt="GitHub contributors">
+  </a>
+  <img src="https://img.shields.io/github/license/CodeMacrocosm/Pattern-a-Thon-22" alt="GitHub">
+</p>
+
+<div align="center">
+
+### ✨ Hall Of Fame
+
+Thanks goes to these amazing people for their contributions 🎉🎉🎉
+
+<a href="https://github.com/codeMacrocosm/Pattern-a-Thon-22/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=codeMacrocosm/Pattern-a-Thon-22" />
+</a>
+
+</div>
+
+
+
+
+### Table of Contents 📚
+
+1. [Overview](https://github.com/CodeMacrocosm/Pattern-a-Thon-22/edit/main/README.md#overview)
+3. [How to contribute](https://github.com/CodeMacrocosm/Pattern-a-Thon-22/edit/main/README.md#how-to-contribute-%EF%B8%8F)
+4. [Examples](https://github.com/CodeMacrocosm/Pattern-a-Thon-22/edit/main/README.md#examples-)
+5. [Star it](https://github.com/CodeMacrocosm/Profile-a-Thon-22/edit/main/README.md#how-to-star-)
+6. [License](https://github.com/CodeMacrocosm/Pattern-a-Thon-22/edit/main/README.md#-license)
+7. [Thanks Contributors](https://github.com/CodeMacrocosm/Pattern-a-Thon-22/edit/main/README.md#contributors-)
+
+
+
+
+## Overview 
+
+Code Creatively at Pattern-a-thon - 🚀🎨 Hosted by **Shreya Malogi**, Join us in this coding playground where programmers, whether beginners or pros, showcase unique patterns in their favorite languages. Unleash your imagination and let's code together! 🌈💻 #HappyCoding 🌟
 
 
 ## How to Contribute 🖋️
-
 
 
 1. **Fork this Repository** 🍴
@@ -41,7 +78,7 @@
 
 ## Examples 🌟
 
-### Pyramid
+#####  Pyramid
 ```
         *    
        ***   
@@ -50,7 +87,7 @@
     *********
 ```
 
-### Square
+#####  Square
 ```
     A B C D E
     A B C D E
@@ -59,7 +96,7 @@
     A B C D E
 ```
 
-### Triangle
+#####  Triangle
 ```
     * 
     * * 
@@ -68,7 +105,7 @@
     * * * * * 
 ```
 
-### Butterfly
+#####  Butterfly
 ```
     *         *
     * *     * *
@@ -77,7 +114,7 @@
     *         *
 ```
 
-### Fish
+####  Fish
 ```
         *
        ***
@@ -89,6 +126,9 @@
        ***
         *
 ```
+
+
+
 
 ## How to Star ⭐
 
@@ -102,22 +142,10 @@ MIT License
 
 Copyright (c) 2022 CodeMacrocosm
 
-## ✨ Hall Of Fame
-
-Thanks goes to these amazing people for their contributions 🎉🎉🎉
-
-
-
-<a href="https://github.com/codemacrocosm/Pattern-a-Thon-22/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=codemacrocosm/Pattern-a-Thon-22" />
-</a>
-
-
-
 
 ## Contributors 🙌
 
-A big thanks to all the creative minds who have contributed to Patternathon. Check out the contributors and explore the variety of patterns they've added.
+A big thanks to all the creative minds who have contributed. Check out the contributors and explore the variety of patterns they've added.
 
 Now, let the pattern creation begin! Happy coding! 🎨✨
 
