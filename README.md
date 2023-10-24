@@ -1,10 +1,7 @@
 
-
-
-
 <div align="center">
 
-# ✨ Pattern-a-Thon' 22 🎨 Patterns Become Art! 🌈
+# ✨ Pattern-a-Thon' 22 🎨 Pattern Artist! 🌈
 
 </div>
 <p align="center">
