@@ -5,16 +5,16 @@
 
 </div>
 <p align="center">
-  <a href="https://github.com/CodeMacrocosm/Pattern-a-Thon-22/stargazers">
-    <img src="https://img.shields.io/github/stars/CodeMacrocosm/Pattern-a-Thon-22?style=flat-square" alt="GitHub stars">
+  <a href="https://github.com/CodeMacrocosm/Pattern-a-Thon/stargazers">
+    <img src="https://img.shields.io/github/stars/CodeMacrocosm/Pattern-a-Thon?style=flat-square" alt="GitHub stars">
   </a>
-  <a href="https://github.com/CodeMacrocosm/Pattern-a-Thon-22/network">
-    <img src="https://img.shields.io/github/forks/CodeMacrocosm/Pattern-a-Thon-22?style=flat-square" alt="GitHub forks">
+  <a href="https://github.com/CodeMacrocosm/Pattern-a-Thon/network">
+    <img src="https://img.shields.io/github/forks/CodeMacrocosm/Pattern-a-Thon?style=flat-square" alt="GitHub forks">
   </a>
-  <a href="https://github.com/codemacrocosm/Pattern-a-Thon-22/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/codemacrocosm/Pattern-a-Thon-22.svg" alt="GitHub contributors">
+  <a href="https://github.com/codemacrocosm/Pattern-a-Thon/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/codemacrocosm/Pattern-a-Thon.svg" alt="GitHub contributors">
   </a>
-  <img src="https://img.shields.io/github/license/CodeMacrocosm/Pattern-a-Thon-22" alt="GitHub">
+  <img src="https://img.shields.io/github/license/CodeMacrocosm/Pattern-a-Thon" alt="GitHub">
 </p>
 
 <div align="center">
@@ -23,8 +23,8 @@
 
 Thanks goes to these amazing people for their contributions 🎉🎉🎉
 
-<a href="https://github.com/codeMacrocosm/Pattern-a-Thon-22/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=codeMacrocosm/Pattern-a-Thon-22" />
+<a href="https://github.com/codeMacrocosm/Pattern-a-Thon/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=codeMacrocosm/Pattern-a-Thon" />
 </a>
 
 </div>
@@ -34,12 +34,12 @@ Thanks goes to these amazing people for their contributions 🎉🎉🎉
 
 ### Table of Contents 📚
 
-1. [Overview](https://github.com/CodeMacrocosm/Pattern-a-Thon-22/edit/main/README.md#overview)
-3. [How to contribute](https://github.com/CodeMacrocosm/Pattern-a-Thon-22/edit/main/README.md#how-to-contribute-%EF%B8%8F)
-4. [Examples](https://github.com/CodeMacrocosm/Pattern-a-Thon-22/edit/main/README.md#examples-)
-5. [Star it](https://github.com/CodeMacrocosm/Profile-a-Thon-22/edit/main/README.md#how-to-star-)
-6. [License](https://github.com/CodeMacrocosm/Pattern-a-Thon-22/edit/main/README.md#-license)
-7. [Thanks Contributors](https://github.com/CodeMacrocosm/Pattern-a-Thon-22/edit/main/README.md#contributors-)
+1. [Overview](https://github.com/CodeMacrocosm/Pattern-a-Thon/edit/main/README.md#overview)
+3. [How to contribute](https://github.com/CodeMacrocosm/Pattern-a-Thon/edit/main/README.md#how-to-contribute-%EF%B8%8F)
+4. [Examples](https://github.com/CodeMacrocosm/Pattern-a-Thon/edit/main/README.md#examples-)
+5. [Star it](https://github.com/CodeMacrocosm/Profile-a-Thon/edit/main/README.md#how-to-star-)
+6. [License](https://github.com/CodeMacrocosm/Pattern-a-Thon/edit/main/README.md#-license)
+7. [Thanks Contributors](https://github.com/CodeMacrocosm/Pattern-a-Thon/edit/main/README.md#contributors-)
 
 
 
@@ -59,7 +59,7 @@ Code Creatively at Pattern-a-thon - 🚀🎨 Hosted by **Shreya Malogi**, Join u
 2. **Clone Your Fork** 📥
 
    ```bash
-   git clone https://github.com/codemacrocosm/Pattern-a-Thon-22.git
+   git clone https://github.com/codemacrocosm/Pattern-a-Thon.git
    ```
 
 3. **Create a new folder for your pattern within the main directory.**
