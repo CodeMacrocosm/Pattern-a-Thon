@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# ✨ Pattern-a-Thon' 22 🎨 Pattern Artist! 🌈
+# ✨ Pattern-a-Thon' 22 🎨 Pattern Artist! 
 
 </div>
 <p align="center">
